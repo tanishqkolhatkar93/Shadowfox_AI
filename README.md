@@ -3,7 +3,7 @@
 
 Welcome to the repository showcasing the tasks I completed during my Shadowfox AI Internship. Each project highlights my skills in machine learning, deep learning, and AI applications. Below is a brief overview of the tasks included in this repository:
 
-Task 1: Image Tagging Model
+###Task 1: Image Tagging Model
 Description:
 Developed an image tagging model using TensorFlow to classify images into categories such as cats and dogs.
 
@@ -17,7 +17,8 @@ Technologies Used:
 TensorFlow
 Python
 CIFAR-10 Dataset
-Task 2: Car Price Prediction
+
+###Task 2: Car Price Prediction
 Description:
 Designed a regression model to predict car prices based on various attributes such as mileage, year, and brand.
 
@@ -31,7 +32,8 @@ Technologies Used:
 Python
 Pandas, NumPy
 Scikit-learn
-Task 3: RAG Application Using LangChain & Pinecone
+
+###Task 3: RAG Application Using LangChain & Pinecone
 Description:
 Created a Retrieval-Augmented Generation (RAG) application, a chatbot capable of answering queries by combining retrieval-based and generative techniques.
 
@@ -45,16 +47,12 @@ Technologies Used:
 LangChain
 Pinecone
 OpenAI API
-Getting Started
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/shadowfox-ai-tasks.git  
-cd shadowfox-ai-tasks  
+
 Follow the individual task directories for detailed instructions, requirements, and usage.
 Contact
+
 Feel free to connect for discussions or collaborations!
-📧 Email: [YourEmail@example.com]
+📧 Email: [tanishqkolhatkar93@gmail.com]
 💼 LinkedIn: YourLinkedInProfile
 
 
